@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative bot: sentiment-analysis & market-making offers the most advanced Polymarket bot, with sentiment-analysis and market-making. Ideal for professional traders
 
 
 
